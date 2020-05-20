@@ -29,7 +29,7 @@
 
     <properties>
         <project.build.sourceEnCoding>UTF-8</project.build.sourceEnCoding>
-        <project.reporting.outputEnCoding></project.reporting.outputEnCoding>
+        <project.reporting.outputEnCoding>UTF-8</project.reporting.outputEnCoding>
         <java.version>1.8</java.version>
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
     </properties>
